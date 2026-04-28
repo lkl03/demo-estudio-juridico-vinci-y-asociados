@@ -1,2 +1,7 @@
-# demo-estudio-juridico-vinci-y-asociados
-Demo web para Estudio Juridico Vinci y Asociados — diseñada por eterlab.
+# Estudio Juridico Vinci y Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
